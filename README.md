@@ -1,1 +1,2 @@
-# aplikasi
+# Aplikasi Latihan
+# Setup Project
